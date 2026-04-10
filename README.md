@@ -1,7 +1,7 @@
 
 > (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─)
 # Welcome to my profile 👋👋
-> ## My name is @edsonmier and I sat at a computer when I was 3 years old. I casually never got up from the chair again.
+> ## My name is @oscirissss and I sat at a computer when I was 3 years old. I casually never got up from the chair again.
 
 # My skills:
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -23,13 +23,5 @@
 
 # What things do I aspire to?
 > -- > I aim to make each of my days full of learning and improvement as a developer, yeah, but I'm a mostly a musician who likes programming as a very juicy hobbie!
-
-# Contact me:
-
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edson.mier/)
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/edson_mier)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edson-mier/)
-
--- > To contact me, please use this email: edson.mier28@gmail.com
 
 > (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─) (─ ‿‿ ─)
